@@ -19,11 +19,19 @@ An emotional support AI chatbot is to provide an accessible, empathetic, and ano
            or
    Just run the command pip install requirements.txt
 
-3. *Active Directory Change*
+3. *Intsall the required machine learning models*
+   download all the files from inside the amdocs_backend_model/checkpoint-500 directory
+   https://drive.google.com/drive/folders/1klWrLVXhsPfSFFtq22KEKi0reIRfT5pI?usp=sharing
+   
+   
+5. *Initialise the models in your project path*
+   After Downloading all above files put it in backend/model/checkpoint-500 directory of your project.
+
+7. *Active Directory Change*
    Now change up your active directory to /model <br>
    cd your-project-folder/backend/model
 
-4. *Run the backend*:  
+8. *Run the backend*:  
    uvicorn app:app --reload
 
 ### Frontend
