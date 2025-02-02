@@ -1,5 +1,3 @@
-readme.md
-
 # Tranquil - Let's Unwind
 
 ## Description
