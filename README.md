@@ -3,7 +3,7 @@ readme.md
 # Tranquil - Let's Unwind
 
 ## Description
-This project is a full-stack web application for emotion detection and response generation using pre-trained models.
+This project is a full-stack web application for emotion detection and response generation using pre-trained models.<br>
 An emotional support AI chatbot is to provide an accessible, empathetic, and anonymous platform for individuals facing mental health challenges. The chatbot aims to bridge the gap in mental health care by offering immediate emotional support, simulating active listening, and fostering a non-judgmental environment for users who may be hesitant to seek traditional therapy due to stigma, cost, or lack of access.
 
 
@@ -22,7 +22,7 @@ An emotional support AI chatbot is to provide an accessible, empathetic, and ano
    Just run the command pip install requirements.txt
 
 3. *Active Directory Change*
-   Now change up your active directory to /model
+   Now change up your active directory to /model <br>
    cd your-project-folder/backend/model
 
 4. *Run the backend*:  
