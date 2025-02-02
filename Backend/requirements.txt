@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fastapi-cors
+langchain_community
+transformers
+torch
+pydantic
