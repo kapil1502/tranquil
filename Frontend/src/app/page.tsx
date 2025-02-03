@@ -152,7 +152,7 @@ export default function DoctorChat() {
 
   // Function to call the chat API
   const callChatApi = async (messageText: string) => {
-    const response = await fetch('http://localhost:8000/chat', {
+    const response = await fetch('http://13.60.168.58:80/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
